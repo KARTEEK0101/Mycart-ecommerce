@@ -14,6 +14,7 @@
     <groupId>com.valo</groupId>
     <artifactId>ecommerce</artifactId>
     <version>1.0.0</version>
+    <packaging>war</packaging>
     <name>ecommerce</name>
     <description>Java Spring Boot E-Commerce Website</description>
 
